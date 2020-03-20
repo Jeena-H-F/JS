@@ -1,2 +1,1 @@
-# JS
-JavaScript
+A first year PGDM student in cloud computing for big data at Lambton college(Toronto,Canada) with an interest in Data science,Machine learning and cloud computing.I completed an internship  for a local firm and was fascinated by how the team analyzed the needs of clients.During that period ,I had the opportunity to improve my skills in HTML,CSS,JavaScript,JQuery,Bootstrap and Django. 
